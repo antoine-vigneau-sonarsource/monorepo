@@ -5,3 +5,4 @@ const input = queryParams.get("input");
 rootEl.innerHTML = input; // Noncompliant
 
 //TODO
+alert("New change");

@@ -15,4 +15,5 @@ eval($code_to_be_dynamically_executed);
 $fileName = $_GET["filename"];
 
 file_get_contents($fileName); // Noncompliant
+echo "New change";
 
