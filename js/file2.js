@@ -6,3 +6,5 @@ rootEl.innerHTML = input; // Noncompliant
 
 //TODO
 alert("New change");
+alert("Change again");
+

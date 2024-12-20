@@ -16,4 +16,5 @@ $fileName = $_GET["filename"];
 
 file_get_contents($fileName); // Noncompliant
 echo "New change";
+echo "Change again";
 
